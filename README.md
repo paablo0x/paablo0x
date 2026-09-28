@@ -3,9 +3,9 @@
 ![Focus](https://img.shields.io/badge/Focus-IT%20%7C%20Cybersecurity%20%7C%20Networking-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-informational?style=for-the-badge)
 
-ICT Specialist student — graduating 06/2026  
-Building and testing systems through hands-on labs and real-world scenarios.  
-Experience working in Finnish & English IT environments.
+ICT Specialist graduate focused on IT support, systems, networking, and cybersecurity.
+Currently looking for opportunities in **IT Support, Cybersecurity, SOC, and related technical roles.**
+Experienced working in Finnish and English IT environments.
 
 ---
 
@@ -35,75 +35,74 @@ Experience working in Finnish & English IT environments.
 
 ## Professional Focus
 
-Building practical experience across IT systems, networking, and cybersecurity through hands-on labs and real-world scenarios.
+Interested in roles where I can work with IT infrastructure, technical support, networking, and cybersecurity.
 
-- Windows 10/11 troubleshooting and system diagnostics  
-- Active Directory user and access management  
-- Microsoft 365, Intune, and Azure fundamentals  
-- Network troubleshooting and protocol analysis  
-- Endpoint hardening and vulnerability assessment  
-- Security-focused lab testing and analysis  
+* IT support and troubleshooting
+* Windows and Linux environments
+* Microsoft 365, Intune, and Azure
+* Network troubleshooting and analysis
+* Endpoint security and vulnerability assessment
+* Security monitoring and SOC environments
+* Systems administration
 
 ---
 
-## ICT Studies (2024–2026)
+## ICT Education
 
-Hands-on technical training through labs, simulations, and independent projects:
+**ICT Specialist — Graduated 06/2026**
 
-- Windows Server and Linux system administration  
-- Networking concepts and infrastructure  
-- ServiceNow and ticket-based workflows  
-- PowerShell automation and Python fundamentals  
-- Security tooling: Wireshark, Nmap, Nessus, OpenVAS  
-- Virtualization using Proxmox, VMware, and VirtualBox  
+Technical training covering:
+
+* Windows Server and Linux system administration
+* Networking and infrastructure
+* ServiceNow and ticket-based workflows
+* PowerShell and Python
+* Microsoft 365, Intune, and Azure
+* Virtualization with Proxmox, VMware, and VirtualBox
+* Cybersecurity fundamentals and security tooling
 
 ---
 
 ## Cybersecurity Practice
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-2ea44f?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Rank](https://img.shields.io/badge/Rank-Top%2015%25-blue?style=for-the-badge)
-![Rooms](https://img.shields.io/badge/Rooms%20Completed-27+-informational?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-2ea44f?style=for-the-badge\&logo=tryhackme\&logoColor=white)
 
-Hands-on cybersecurity training through structured labs and CTF-style challenges.
+Hands-on cybersecurity training through labs, CTFs, and personal projects.
 
-**Platform:** TryHackMe  
-**Profile:** https://tryhackme.com/p/tr3333  
+**Platform:** TryHackMe
+**Profile:** https://tryhackme.com/p/tr3333
 
 ### Core Areas
-- Network fundamentals and traffic analysis  
-- Linux and Windows system interaction  
-- Enumeration methodologies  
-- Introductory exploitation techniques  
-- CTF-based problem solving  
 
-### Practical Exposure
-- Service and port enumeration using Nmap  
-- Linux CLI navigation and system interaction  
-- Windows environment exploration  
-- Networking models and protocol behavior  
+* Network fundamentals and traffic analysis
+* Linux and Windows environments
+* Enumeration and reconnaissance
+* Vulnerability assessment
+* Introductory exploitation
+* CTF-based problem solving
 
 ---
 
 ## Projects
 
 ### Windows Server & Active Directory Lab
-https://github.com/paablorsc/windows-server-ad-lab
 
-- Designed and deployed an Active Directory domain environment  
-- Managed users, groups, and access control policies  
-- Configured and tested Group Policy Objects (GPOs)  
-- Troubleshot authentication and network-related issues  
-- Simulated real-world administrative and support scenarios  
-- Performed controlled security testing within the lab  
+https://github.com/paablo0x/windows-server-ad-lab
 
-### WiFi Reconnaissance Tool  
-https://github.com/paablorsc/huuhuu-scanner
+* Built and managed an Active Directory environment
+* Managed users, groups, and access control
+* Configured Group Policy Objects (GPOs)
+* Troubleshot authentication and networking issues
+* Simulated administrative and support scenarios
 
-- Developed a wireless scanning tool using Python and Scapy  
-- Performed real-time network discovery and packet analysis  
-- Utilized monitor mode for traffic inspection  
-- Identified network configurations and client activity  
+### WiFi Reconnaissance Tool
+
+https://github.com/paablo0x/huuhuu-scanner
+
+* Developed a wireless reconnaissance tool using Python and Scapy
+* Implemented real-time network discovery
+* Analyzed wireless traffic and network information
+* Explored wireless security and network behavior
 
 ---
 
@@ -116,26 +115,39 @@ https://github.com/paablorsc/huuhuu-scanner
   <img src="https://img.shields.io/badge/-Nmap-DD4814?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
-- Multi-VM Proxmox environment simulating enterprise infrastructure  
-- Raspberry Pi used for networking and Linux experimentation  
-- Active Directory, automation, and monitoring scenarios  
-- Vulnerability scanning and system hardening practices  
+Personal lab environment used for:
+
+* Virtualization and system administration
+* Windows and Linux environments
+* Networking experiments
+* Active Directory
+* Security testing and vulnerability assessment
+* Cybersecurity learning and experimentation
 
 ---
 
-## Overview
+## Currently Looking For
 
-This repository documents practical work, labs, and projects focused on IT operations and cybersecurity development through hands-on experience.
+**Open to opportunities in:**
+
+* IT Support
+* Technical Support
+* Systems Administration
+* SOC / Security Operations
+* Junior Cybersecurity
+* Network / Infrastructure roles
+
+Interested in opportunities where I can continue developing my technical skills while contributing to a real IT or cybersecurity team.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=paablorsc&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paablo0x&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=paablo0x&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paablorsc&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paablo0x&theme=tokyo-night&hide_border=true"/>
 </p>
