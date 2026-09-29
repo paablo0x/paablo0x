@@ -70,7 +70,7 @@ Technical training covering:
 Hands-on cybersecurity training through labs, CTFs, and personal projects.
 
 **Platform:** TryHackMe
-**Profile:** https://tryhackme.com/p/tr3333
+**Profile:** https://tryhackme.com/p/paablo0x
 
 ### Core Areas
 
