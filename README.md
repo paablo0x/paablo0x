@@ -3,7 +3,7 @@
 ![Focus](https://img.shields.io/badge/Focus-IT%20%7C%20Cybersecurity%20%7C%20Networking-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-informational?style=for-the-badge)
 
-ICT Specialist graduate focused on IT support, systems, networking, and cybersecurity.
+IT Support Specialist graduate focused on systems, networking, and cybersecurity.
 Currently looking for opportunities in **IT Support, Cybersecurity, SOC, and related technical roles.**
 Experienced working in Finnish and English IT environments.
 
