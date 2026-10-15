@@ -88,6 +88,19 @@ I focus on understanding why something works, not just copying commands from a w
 
 ## Featured Projects
 
+### [Local AI Lab](https://github.com/paablo0x/local-ai-hermes-lab)
+
+**Ollama · Qwen · Hermes Agent · Local AI**
+
+A local AI project exploring LLM deployment, AI agent integration, and tool use with Ollama, Qwen, and Hermes Agent.
+
+- Set up and tested a local Qwen model using Ollama
+- Configured Hermes Agent to work with a local Ollama-compatible API
+- Experimented with agent tool use and model context configuration
+- Troubleshot installation issues, dependencies, and Windows permissions
+- Exploring AI-assisted threat intelligence as a future cybersecurity project
+## Featured Projects
+
 ### [HuuHuu Scanner](https://github.com/paablo0x/huuhuu-scanner)
 
 **Python · Scapy · Wireless Reconnaissance**
@@ -121,16 +134,6 @@ A collection of cybersecurity learning notes and awareness material.
 - Documenting security concepts and common threats
 - Organising technical knowledge for future reference
 - Building a structured foundation in cybersecurity
-
-### [Linux Bash Practice](https://github.com/paablo0x/linux-bash-practice)
-
-**Linux · Bash · Command Line**
-
-A learning repository for practising Linux commands, shell fundamentals, and command-line workflows.
-
-- Practising filesystem navigation and file management
-- Learning command composition and text processing
-- Developing familiarity with Linux administration tasks
 
 ---
 
