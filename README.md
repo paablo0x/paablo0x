@@ -71,18 +71,33 @@ I use cybersecurity labs and CTF challenges to practise technical skills, explor
 
 **TryHackMe:** [paablo0x](https://tryhackme.com/p/paablo0x)
 
+I use cybersecurity labs and CTF challenges to develop my technical skills, explore attack techniques, and understand how vulnerabilities are discovered and investigated. I'm also developing my defensive security skills, focusing on threat detection, log analysis, and incident investigation.
+
+TryHackMe: paablo0x
+
 Areas I'm developing:
 
-- Reconnaissance and enumeration
-- Network scanning and service discovery
-- Linux and Windows security
-- Web application security fundamentals
-- Vulnerability identification and assessment
-- Introductory exploitation in controlled lab environments
-- Traffic analysis and troubleshooting
-- Scripting and automation for security tasks
+    Reconnaissance and enumeration
 
-I focus on understanding why something works, not just copying commands from a walkthrough.
+    Network scanning and service discovery
+
+    Linux and Windows security
+
+    Web application security fundamentals
+
+    Vulnerability identification and assessment
+
+    Introductory exploitation in controlled lab environments
+
+    Network traffic analysis and troubleshooting
+
+    Security monitoring and threat detection
+
+    Log analysis and incident response fundamentals
+
+    Scripting and automation for security tasks
+
+I focus on understanding both how attacks work and how to detect and investigate them, rather than simply following walkthroughs or copying commands.
 
 ---
 
